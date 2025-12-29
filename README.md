@@ -48,4 +48,4 @@ Este projeto está sob a licença especificada no arquivo [LICENSE](LICENSE).
 
 Repositório criado como parte dos estudos práticos da linguagem Go
 
-![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40"/>
