@@ -4,9 +4,9 @@
 
 Este repositório contém os exercícios práticos do livro **"A Linguagem de Programação Go"** (_The Go Programming Language_), de Alan A. A. Donovan e Brian W. Kernighan.
 
-## 👨‍💻 Autor
+## Autor
 
-**Duarte Rodrigo Santos de Oliveira**
+Duarte Rodrigo Santos de Oliveira
 
 Estudante em processo de aprendizado da linguagem Go através da prática dos exercícios propostos no livro.
 
@@ -46,4 +46,6 @@ Este projeto está sob a licença especificada no arquivo [LICENSE](LICENSE).
 
 ---
 
-_Repositório criado como parte dos estudos práticos da linguagem Go_ 🐹
+Repositório criado como parte dos estudos práticos da linguagem Go
+
+![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
