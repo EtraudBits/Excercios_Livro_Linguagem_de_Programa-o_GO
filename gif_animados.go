@@ -10,11 +10,11 @@ import (
 	"os"
 )
 
-var palette = []color.Color{color.White, color.Black}
+var palette = []color.Color{color.Black, color.RGBA{0x00, 0xff, 0x00, 0xff}}
 
 const (
-	whiteIndex = 0
-	blackIndex = 1
+	blackIndex = 0
+	greenIndex = 1
 )
 
 func main() {
@@ -35,7 +35,7 @@ func lissajous(out io.Writer) {
 		delay   = 8
 	)
 	freq := rand.Float64() * 3.0
-	anim := gif.GIF{LoopCount: 0}
+	anim := gif.GIF{LoopCount: 0} //no livro encontra-se GIF{LoopCount: nframes} foi modificado para GIF{LoopCount: 0}
 	phase := 0.0
 	for i := 0; i < nframes; i++ {
 		rect := image.Rect(0, 0, 2*size+1, 2*size+1)
@@ -44,7 +44,7 @@ func lissajous(out io.Writer) {
 			x := math.Sin(t)
 			y := math.Sin(t*freq + phase)
 			img.SetColorIndex(size+int(x*size+0.5), size+int(y*size+0.5),
-				blackIndex)
+				greenIndex)
 		}
 		phase += 0.1
 		anim.Delay = append(anim.Delay, delay)
