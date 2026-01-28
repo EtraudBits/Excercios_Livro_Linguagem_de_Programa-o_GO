@@ -329,3 +329,19 @@ fmt.Printf("Tempo: %v\n", time.Since(start))
 ## 💡 Curiosidade
 
 O primeiro jogo a popularizar anti-aliasing foi **Quake III Arena** (1999) com MSAA. Hoje, até smartphones têm hardware dedicado para AA em tempo real!
+
+---
+
+## 👨‍💻 Autor
+
+<div align="center">
+
+### 🐹 Gopher Developer
+
+**Duarte Rodrigo Santos de Oliveira**
+
+_Estudante Autodidata da linguagem Go_
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duarte-backend-golang)
+
+</div>
