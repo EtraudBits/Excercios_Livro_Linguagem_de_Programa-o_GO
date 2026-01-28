@@ -173,3 +173,19 @@ Onde:
 - Não importa o quanto você amplie, sempre verá novos detalhes (auto-similaridade)
 - É infinitamente complexo, mas definido por uma fórmula extremamente simples
 - Antenas fractais foram usadas no rover Perseverance da NASA em Marte!
+
+---
+
+## 👨‍💻 Autor
+
+<div align="center">
+
+### 🐹 Gopher Developer
+
+**Duarte Rodrigo Santos de Oliveira**
+
+*Estudante Autodidata da linguagem Go*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duarte-backend-golang)
+
+</div>

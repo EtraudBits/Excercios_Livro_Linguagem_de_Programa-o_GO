@@ -246,3 +246,19 @@ img.Set(px, py, ycbcrColor)  // Funciona perfeitamente!
 ## 💡 Curiosidade
 
 Quando você tira uma foto com seu celular e ela fica com 2-3 MB ao invés de 30 MB, você tem o YCbCr (e JPEG) para agradecer! A separação de luminância e crominância é fundamental para isso.
+
+---
+
+## 👨‍💻 Autor
+
+<div align="center">
+
+### 🐹 Gopher Developer
+
+**Duarte Rodrigo Santos de Oliveira**
+
+_Estudante Autodidata da linguagem Go_
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duarte-backend-golang)
+
+</div>

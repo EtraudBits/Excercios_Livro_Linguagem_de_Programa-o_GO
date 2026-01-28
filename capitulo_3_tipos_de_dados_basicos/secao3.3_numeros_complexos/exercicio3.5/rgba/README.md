@@ -173,3 +173,19 @@ png.Encode(os.Stdout, img)  // Grava PNG
 - `../ycbcr/` - Versão usando espaço YCbCr
 - `../../exercicio3.6/` - Super amostragem (anti-aliasing)
 - `../../progMandelbrot/` - Versão básica em escala de cinza
+
+---
+
+## 👨‍💻 Autor
+
+<div align="center">
+
+### 🐹 Gopher Developer
+
+**Duarte Rodrigo Santos de Oliveira**
+
+_Estudante Autodidata da linguagem Go_
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duarte-backend-golang)
+
+</div>
