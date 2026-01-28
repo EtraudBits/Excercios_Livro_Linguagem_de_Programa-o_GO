@@ -443,3 +443,19 @@ O fractal de Newton tem inspirado artistas digitais desde os anos 1980. As front
 - Visualizações de planetários
 - Arte generativa NFT
 - Screensavers clássicos
+
+---
+
+## 👨‍💻 Autor
+
+<div align="center">
+
+### 🐹 Gopher Developer
+
+**Duarte Rodrigo Santos de Oliveira**
+
+*Estudante Autodidata da linguagem Go*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duarte-backend-golang)
+
+</div>
