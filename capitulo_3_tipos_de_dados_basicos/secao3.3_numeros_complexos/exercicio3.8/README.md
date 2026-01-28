@@ -494,3 +494,19 @@ x.SetPrec(256)        // Agora sim: 256 bits
 > — **Anônimo**
 
 A moral: sempre tenha consciência das limitações de precisão dos números que você usa!
+
+---
+
+## 👨‍💻 Autor
+
+<div align="center">
+
+### 🐹 Gopher Developer
+
+**Duarte Rodrigo Santos de Oliveira**
+
+_Estudante Autodidata da linguagem Go_
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duarte-backend-golang)
+
+</div>
